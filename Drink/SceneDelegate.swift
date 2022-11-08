@@ -2,8 +2,6 @@
 //  SceneDelegate.swift
 //  Drink
 //
-//  Created by 정유진 on 2022/11/04.
-//
 
 import UIKit
 
